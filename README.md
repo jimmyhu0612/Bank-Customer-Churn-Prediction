@@ -7,3 +7,19 @@
 資料庫參考自：https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset/data
 
 程式碼參考自：https://www.kaggle.com/code/danishmubashar/88-bank-customer-churn-prediction-ann
+
+# 資料說明(Features)
+RowNumber: 資料集中每筆資料的序號
+CustomerId: 客戶的唯一識別碼
+Surname: 暱稱
+CreditScore: 信用評分
+Geography: 地理位置(如：國家或地區)
+Gender: 性別
+Age: 年齡
+Tenure: 客戶在銀行的年資(以年為單位)
+Balance: 帳戶餘額
+NumOfProducts: 擁有的銀行產品數量
+HasCrCard: 是否擁有信用卡(binary)
+IsActiveMember: 是否為活耀會員(binary)
+EstimatedSalary: 預估薪資
+Exited: 是否已流失(離開銀行) (binary)
